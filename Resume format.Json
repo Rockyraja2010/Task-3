@@ -1,0 +1,40 @@
+{
+    "personal_info": {
+        "name": "Raja",
+        "address": "205, Gandhipuram",
+        "city": "Coimbatore",
+        "state": "TN",
+        "PIN": "641027",
+        "phone": "99448-80858",
+        "email": "rockyraja2010@gmail.com"
+    },
+    "summary": "Highly motivated and experienced software developer with a proven track record of delivering complex projects on time and on budget. Strong skills in JavaScript, Python, and Java. Proven ability to work effectively in both individual and team settings.",
+    "education": [
+        {
+            "degree": "Bachelor of Science in Computer Science",
+            "school": "Corp. School of Rathinapuri",
+            "graduation_date": "May 2013"
+        },
+    ],
+    "work_experience": [
+        {
+            "title": "Payment Poster",
+            "company": "Huron Eurasia",
+            "duration": "June 2022 - Present",
+            "responsibilities": [
+                "Payment Posting in Healthcare Domain",
+                "Payments and Denial postings",
+                "Analysing of EOB and transfers Processing"
+            ]
+        },
+    ],
+    "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Java",
+        "Python",
+        "Agile development",
+        "Git"
+    ]
+}
